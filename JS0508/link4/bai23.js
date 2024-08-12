@@ -3,5 +3,5 @@ function count(n) {
     return numString.length;       
 }
 
-let n = 34;
+let n = 345;
 console.log(count(n));  
