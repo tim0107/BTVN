@@ -8,4 +8,15 @@ const result = arr2.reduce((pre, curr) => {
     return pre;
 }, []);
 
-console.log(result); 
+const result2 = arr1.reduce((pre, curr) => {
+    if (!arr2.includes(curr)) {
+        pre.push(curr);
+    }
+    return pre;
+}, []);
+
+
+
+const final = [...result, ...result2];
+
+console.log(final);

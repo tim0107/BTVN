@@ -9,8 +9,4 @@ console.log(newArray);
 
 
 
-// let newArr = arrFlat.reduce((result, value) => {
-//     return result.concat(value);
-
-// }, [])
 

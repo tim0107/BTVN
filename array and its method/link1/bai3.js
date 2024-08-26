@@ -15,12 +15,12 @@ const topics = [
     },
 ];
 
-let newTopic = topics.reduce((acc, element) => {
+let array = [];
+
+topics.forEach(element => {
+
     element.posts.forEach(post => {
-    acc.array.push({ postID: post.postID, title: post.title });
+        array.push({postID: post.postID, title : post.title});
     });
-    return acc;
-
-}, { array: [] });
-
-console.log(newTopic);
+});
+console.log(array);
