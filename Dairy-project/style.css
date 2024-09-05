@@ -1,0 +1,140 @@
+body,
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.header {
+    text-align: center;
+    background: linear-gradient(90deg, red, purple);
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 20px;
+    margin-top: 300px;
+}
+
+.header h1 {
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.header p {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.takeInput {
+    text-align: center;
+    padding: 20px;
+}
+
+.takeInput h1 {
+    font-size: 24px;
+}
+
+.takeInput #mood {
+    padding: 10px;
+    font-size: 16px;
+    width: 80%;
+    max-width: 400px;
+    word-wrap: break-word;
+    box-sizing: border-box;
+    min-height: 50px;
+    /* Set a minimum height */
+    resize: none;
+    /* Disable manual resizing by user */
+    overflow: hidden;
+    /* Hide scrollbar initially */
+}
+
+.takeInput label,
+.takeInput textarea,
+.takeInput button {
+    display: block;
+    margin: 10px auto;
+}
+
+.takeInput textarea {
+    padding: 10px;
+    font-size: 16px;
+    width: 80%;
+    max-width: 400px;
+    word-wrap: break-word;
+    box-sizing: border-box;
+    min-height: 50px;
+    /* Set a minimum height */
+    resize: none;
+    /* Disable manual resizing by user */
+    overflow: hidden;
+    /* Hide scrollbar initially */
+}
+
+.takeInput button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.result .demo li {
+    width: 50%;
+    margin: 0 auto;
+    height: 100px;
+    border: purple solid 1px;
+    word-wrap: break-word;
+    list-style-type: none;
+    padding: 10px;
+    border-radius: 16px;
+    margin-top: 10px;
+    position: relative;
+
+}
+
+.result .demo li .delete-btn {
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.viewHistory {
+    margin-top: 1000px;
+    /* Position it further down the page */
+    padding: 20px;
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.viewFuture {
+    margin-top: 1000px;
+    /* Position it further down the page */
+    padding: 20px;
+    background-color: lightgrey; 
+    text-align: center;
+
+}
+
+#viewHistoryBtn,
+#viewFutureBtn {
+    margin: 20px;
+    padding: 10px 20px;
+    
+    
+}
+
+.historyFuturebtn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.delete-btn {
+    padding: 5px;
+    right: 10px;
+}

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Diary</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Space+Grotesk:wght@300..700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="header">
+        <h1 id="title">Welcome to my diary</h1>
+        <p>Briefly about this project, <br>this is a personal web page during the development phase, but it may be your
+            favorite site in the future.</p>
+    </div>
+
+   
+    <form class="takeInput">
+        <h1>What did you do today?</h1>
+        <label for="mood">Mood:</label>
+        <input type="text" id="mood" placeholder="How are you feeling?">
+        <label for="takeInput">Details:</label>
+        <textarea id="takeInput" placeholder="What happened?"></textarea>
+        <br>
+        <button id="inputBtn">Store it!!</button>
+    </form>
+    <div class="historyFuturebtn">
+        <button id="viewHistoryBtn">Yesterday is history</button>
+        <button id="viewFutureBtn">Tomorrow is a mystery</button>
+    </div>
+    
+
+    <div class="viewHistory">
+        <h1>Yesterday is history</h1>
+        <ul class="demo"></ul>
+
+    </div>
+
+
+    <div class="viewFuture">
+        <h1>testing</h1>
+    </div>
+
+
+    
+    
+    <script src="main.js"></script>
+</body>
+
+</html>
