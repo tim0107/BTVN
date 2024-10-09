@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\models\\gpafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\models\\gpafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\viewmodel\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\viewmodel\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\viewmodel\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\viewmodel\\editviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\wwwroot\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\wwwroot\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|c:\\users\\banhb\\downloads\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp\\csirointerviewapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A10C927-DE6D-4FB6-907B-6F58647839CB}|CSIROInterviewApp\\CSIROInterviewApp.csproj|solutionrelative:csirointerviewapp\\csirointerviewapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CSIROInterviewApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:29:03.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CSIROInterviewApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:27:02.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CSIROInterviewApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:31:18.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CSIROInterviewApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:31:17.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CSIROInterviewApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T04:37:19.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "CSIROInterviewApp\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAFMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T04:26:10.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "CSIROInterviewApp\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T11:46:24.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Models\\Admin.cs",
+              "RelativeToolTip": "CSIROInterviewApp\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:17:08.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Models\\Application.cs",
+              "RelativeToolTip": "CSIROInterviewApp\\Models\\Application.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:21:59.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Models\\Course.cs",
+              "RelativeToolTip": "CSIROInterviewApp\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:47:22.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GPAFilter.cs",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Models\\GPAFilter.cs",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\Models\\GPAFilter.cs",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Models\\GPAFilter.cs",
+              "RelativeToolTip": "CSIROInterviewApp\\Models\\GPAFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:23:53.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Models\\User.cs",
+              "RelativeToolTip": "CSIROInterviewApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:20:22.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\ViewModel\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\ViewModel\\AdminViewModel.cs",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\ViewModel\\AdminViewModel.cs",
+              "RelativeToolTip": "CSIROInterviewApp\\ViewModel\\AdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T05:06:09.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\ViewModel\\EditViewModel.cs",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\ViewModel\\EditViewModel.cs",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\ViewModel\\EditViewModel.cs",
+              "RelativeToolTip": "CSIROInterviewApp\\ViewModel\\EditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:46:35.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\ViewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\ViewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "CSIROInterviewApp\\ViewModel\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:29:47.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\Models\\DBContext.cs",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\Models\\DBContext.cs",
+              "RelativeToolTip": "CSIROInterviewApp\\Models\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:21:57.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\wwwroot\\Index.cshtml",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\wwwroot\\Index.cshtml",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\wwwroot\\Index.cshtml",
+              "RelativeToolTip": "CSIROInterviewApp\\wwwroot\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T14:08:42.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CSIROInterviewApp.csproj",
+              "DocumentMoniker": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp.csproj",
+              "RelativeDocumentMoniker": "CSIROInterviewApp\\CSIROInterviewApp.csproj",
+              "ToolTip": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp.csproj",
+              "RelativeToolTip": "CSIROInterviewApp\\CSIROInterviewApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T04:17:04.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

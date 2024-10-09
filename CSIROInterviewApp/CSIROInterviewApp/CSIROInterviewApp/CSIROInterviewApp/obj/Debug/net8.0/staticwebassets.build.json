@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "JInq0t+0n3of8y9TZnElgTchBMq2CY7of6ccPmUOh7I=",
+  "Source": "CSIROInterviewApp",
+  "BasePath": "_content/CSIROInterviewApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CSIROInterviewApp\\wwwroot",
+      "Source": "CSIROInterviewApp",
+      "ContentRoot": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\wwwroot\\",
+      "BasePath": "_content/CSIROInterviewApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\wwwroot\\Index.cshtml",
+      "SourceId": "CSIROInterviewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\banhb\\Downloads\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\CSIROInterviewApp\\wwwroot\\",
+      "BasePath": "_content/CSIROInterviewApp",
+      "RelativePath": "Index.cshtml",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "wwwroot\\Index.cshtml"
+    }
+  ]
+}

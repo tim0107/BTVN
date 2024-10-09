@@ -1,0 +1,38 @@
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+
+namespace CSIROInterviewApp.ViewModels
+{
+    public class RegisterViewModel
+    {
+        [Required]
+        public string Username { get; set; }
+
+        [Required]
+        [Range(0.0, 4.0, ErrorMessage = "GPA must be between 0.0 and 4.0")]
+        public double GPA { get; set; }
+
+        [Required]
+        public string University { get; set; }
+
+        [Required]
+        [DataType(DataType.Password)]
+        public string Password { get; set; }
+
+        [Required]
+        [DataType(DataType.Password)]
+        [Compare("Password", ErrorMessage = "Passwords do not match")]
+        public string ConfirmPassword { get; set; }
+
+        [Required]
+        public string SelectedCourse { get; set; }
+
+        public List<string> Courses { get; set; } = new List<string>
+        {
+            "Master of Data Science",
+            "Master of Artificial Intelligence",
+            "Master of Information Technology",
+            "Master of Science (Statistics)"
+        };
+    }
+}
