@@ -9,6 +9,8 @@ router.get('/',getAllItem);
 router.patch('/:id',updateItem);
 router.delete('/:id',deleteItem)
 
+console.log('endpoint hit')
+
 
   
 
